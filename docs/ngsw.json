@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596885182492,
+  "timestamp": 1596888523831,
   "index": "https://keczale.github.io/ofb//index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://keczale.github.io/ofb//favicon.ico",
         "https://keczale.github.io/ofb//index.html",
-        "https://keczale.github.io/ofb//main-es2015.74da5c9b6b86a1a6b473.js",
-        "https://keczale.github.io/ofb//main-es5.74da5c9b6b86a1a6b473.js",
+        "https://keczale.github.io/ofb//main-es2015.f945049c8c471060f1c0.js",
+        "https://keczale.github.io/ofb//main-es5.f945049c8c471060f1c0.js",
         "https://keczale.github.io/ofb//manifest.webmanifest",
         "https://keczale.github.io/ofb//polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://keczale.github.io/ofb//polyfills-es5.9e286f6d9247438cbb02.js",
@@ -78,9 +78,9 @@
     "https://keczale.github.io/ofb//assets/img/no-photo.jpg": "e5302210243e6b9f710e00b0e28712b4c4510e92",
     "https://keczale.github.io/ofb//assets/img/smile.jpg": "e8a1fbc2cfff1b6f51bfcc7bdd8717110372a63b",
     "https://keczale.github.io/ofb//favicon.ico": "479d19165c2ead47c69b0003c4df00403fcb6b17",
-    "https://keczale.github.io/ofb//index.html": "487ef8d510c23f2ff9ec85cd3b2b1729ac95ba43",
-    "https://keczale.github.io/ofb//main-es2015.74da5c9b6b86a1a6b473.js": "d8c2f1f4de74ce9ef78c4fea9933850fac81dbf2",
-    "https://keczale.github.io/ofb//main-es5.74da5c9b6b86a1a6b473.js": "a80163d50208b855a202f207363de67845e6c256",
+    "https://keczale.github.io/ofb//index.html": "869ebd6c530ea030ae0aca406d756aca02073964",
+    "https://keczale.github.io/ofb//main-es2015.f945049c8c471060f1c0.js": "8174d9a2fa9fba5d6db45b4fac7a9c99b0ae1303",
+    "https://keczale.github.io/ofb//main-es5.f945049c8c471060f1c0.js": "3b42f97ae7e170c6cd5107f097acf699f57438c9",
     "https://keczale.github.io/ofb//manifest.webmanifest": "544ed857b0ee03c2e7de22222724744380c65f47",
     "https://keczale.github.io/ofb//polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://keczale.github.io/ofb//polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
